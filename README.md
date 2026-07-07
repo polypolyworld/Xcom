@@ -1,66 +1,96 @@
-# Xcom — @MyriadMarkets 繁體中文搬運工具
+# Xcom — Myriad Press 社群媒體繁體中文搬運工具
 
-自動抓取 [@MyriadMarkets](https://x.com/MyriadMarkets) 的最新推文，翻譯為繁體中文，並發布到 [@Myriadpress](https://x.com/Myriadpress)。
+自動抓取 Polymarket 相關內容，翻譯為繁體中文，並發布到 Myriad Press 的社群媒體帳號。
+
+## 支援平台
+
+| 平台 | 來源 | 目標帳號 |
+|------|------|----------|
+| X (Twitter) | [@MyriadMarkets](https://x.com/MyriadMarkets) | [@Myriadpress](https://x.com/Myriadpress) |
+| Facebook | [PolymarketHQ](https://www.facebook.com/PolymarketHQ) | Myriad Press 個人帳號 |
 
 ## 功能
 
-- **抓取**：透過公開 syndication API 取得 @MyriadMarkets 最新推文（無需 X API 金鑰）
+- **抓取**：透過公開 API/端點取得來源帳號最新內容（無需付費 API）
 - **翻譯**：AI 翻譯為繁體中文，台灣用語習慣，意譯＋潤色
-- **發布**：透過 Playwright + CDP + Cookie 注入，自動在瀏覽器中發布推文（含配圖）
-- **去重**：每次執行只發布尚未搬運過的新推文
-- **自動化**：搭配 Devin Automation，每 2 小時自動執行一次
+- **發布**：透過 Playwright + CDP，自動在瀏覽器中發布（含配圖）
+- **去重**：每次執行只發布尚未搬運過的新內容
+- **自動化**：搭配 Devin Automation 定時執行
 
 ## 目錄結構
 
 ```
 scripts/
-  fetch_tweets.py    — 抓取 @MyriadMarkets 推文並輸出 JSON
-  post_tweet.py      — 透過 Cookie 注入登入 X 並發布推文（含配圖）
+  fetch_tweets.py     — 抓取 @MyriadMarkets 推文並輸出 JSON
+  post_tweet.py       — X: Cookie 注入登入並發布推文（含配圖）
+  fetch_fb_posts.py   — 抓取 PolymarketHQ Facebook 帖子
+  post_fb.py          — Facebook: 密碼登入並發布帖子（含圖片）
 drafts/
-  myriad_drafts.md   — 翻譯稿範例
+  myriad_drafts.md    — X 翻譯稿範例
 ```
 
 ## 環境需求
 
 - Python 3.10+
 - playwright (`pip install playwright`)
-- xclip（Linux，用於 emoji 剪貼簿粘貼）
+- xclip（Linux，用於 X 的 emoji 剪貼簿粘貼）
 - Chrome 瀏覽器（CDP 端口 29229）
 
 ## 密鑰
 
 需要以下環境變數（透過 Devin Secrets 或手動設定）：
 
+### X (Twitter)
+
 | 變數 | 說明 |
 |------|------|
-| `X_AUTH_TOKEN` | X (Twitter) 的 `auth_token` Cookie |
-| `X_CT0` | X (Twitter) 的 `ct0` Cookie |
+| `X_AUTH_TOKEN` | X 的 `auth_token` Cookie |
+| `X_CT0` | X 的 `ct0` Cookie |
 
 取得方式：在已登入 X 的瀏覽器中，F12 → Application → Cookies → x.com，複製 `auth_token` 和 `ct0` 的值。
 
+### Facebook
+
+| 變數 | 說明 |
+|------|------|
+| `FB_EMAIL` | Facebook 帳號（信箱/手機） |
+| `FB_PASSWORD` | Facebook 密碼 |
+
 ## 使用方式
 
-### 1. 抓取推文
+### X: 抓取推文
 
 ```bash
 python scripts/fetch_tweets.py
-# 輸出 JSON 到 stdout，包含推文文字、媒體連結、發布時間
 ```
 
-### 2. 發布推文
+### X: 發布推文
 
 ```bash
-# 確保 Chrome 已啟動並開放 CDP 端口 29229
 export X_AUTH_TOKEN="your_auth_token"
 export X_CT0="your_ct0"
 python scripts/post_tweet.py --text "推文內容" --image /path/to/image.jpg
 ```
 
+### Facebook: 抓取帖子
+
+```bash
+python scripts/fetch_fb_posts.py --page PolymarketHQ --limit 20
+```
+
+### Facebook: 發布帖子
+
+```bash
+export FB_EMAIL="your_email"
+export FB_PASSWORD="your_password"
+python scripts/post_fb.py --text "帖子內容" --images img1.jpg img2.jpg
+```
+
 ## 來源標註
 
-每條推文末尾附上：
+每條內容末尾附上：
 ```
-（來源：Myriad）
+（來源：Polymarket）
 https://myriad.press/integrate/
 ```
 
