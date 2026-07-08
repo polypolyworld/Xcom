@@ -1,7 +1,7 @@
 """Post to Instagram (polypolyworld) via Playwright CDP + sessionid Cookie.
 
 Usage:
-    python post_ig.py --caption "貼文內容" --image /path/to/image.png
+    python post_ig.py --caption "貼文內容" --media img.png video.mp4 ...
 
 Requires env var: IG_SESSIONID
 Requires: Chrome running with CDP on port 29229.
@@ -37,10 +37,11 @@ def inject_cookie(context) -> None:
     )
 
 
-def post_ig(caption: str, image_path: str) -> None:
-    if not os.path.isfile(image_path):
-        print(f"ERROR: image not found: {image_path}", file=sys.stderr)
-        sys.exit(1)
+def post_ig(caption: str, media_paths: list) -> None:
+    for m in media_paths:
+        if not os.path.isfile(m):
+            print(f"ERROR: media not found: {m}", file=sys.stderr)
+            sys.exit(1)
 
     with sync_playwright() as p:
         browser = p.chromium.connect_over_cdp(CDP_URL)
@@ -75,18 +76,24 @@ def post_ig(caption: str, image_path: str) -> None:
             post_opt.click()
             page.wait_for_timeout(2000)
 
-        # Upload the image via the file chooser
+        # Upload media via the file chooser (images and/or videos)
         with page.expect_file_chooser() as fc_info:
             page.click('button:has-text("Select from computer")')
-        fc_info.value.set_files(image_path)
-        page.wait_for_timeout(4000)
+        fc_info.value.set_files(media_paths)
+        page.wait_for_timeout(6000)
+
+        # Dismiss Reels notice for video uploads
+        ok_btn = page.query_selector('button:has-text("OK")')
+        if ok_btn:
+            ok_btn.click()
+            page.wait_for_timeout(1500)
 
         # Crop step -> Next
         page.click('div[role="button"]:has-text("Next")')
-        page.wait_for_timeout(2500)
-        # Filters step -> Next
+        page.wait_for_timeout(3000)
+        # Filters/edit step -> Next
         page.click('div[role="button"]:has-text("Next")')
-        page.wait_for_timeout(2500)
+        page.wait_for_timeout(3000)
 
         # Caption
         caption_box = page.query_selector('div[aria-label="Write a caption..."]')
@@ -98,7 +105,11 @@ def post_ig(caption: str, image_path: str) -> None:
             print("WARNING: caption box not found", file=sys.stderr)
 
         # Dismiss any hashtag autocomplete popup that blocks the Share button
-        page.keyboard.press("Escape")
+        # (click the dialog header instead of Escape, which can trigger the
+        # "Discard post?" dialog)
+        hdr = page.query_selector('div[role="dialog"] h1')
+        if hdr:
+            hdr.click()
         page.wait_for_timeout(1000)
 
         # Share (the header button has exact text "Share")
@@ -111,21 +122,28 @@ def post_ig(caption: str, image_path: str) -> None:
                 if (btn) btn.click();
             }"""
         )
-        page.wait_for_timeout(10000)
-
-        if page.query_selector('text=Your post has been shared'):
-            print("Instagram post shared successfully")
-        else:
-            print("Post submitted (confirmation text not detected; verify "
-                  "on profile)")
+        # Video uploads can take a while to process; poll for confirmation
+        # and dismiss the "Discard post?" dialog if it appears.
+        for _ in range(24):
+            page.wait_for_timeout(5000)
+            cancel = page.query_selector('button:has-text("Cancel")')
+            if cancel and page.query_selector('text=Discard post?'):
+                cancel.click()
+                continue
+            if page.query_selector('text=Your post has been shared'):
+                print("Instagram post shared successfully")
+                return
+        print("Post submitted (confirmation text not detected; verify "
+              "on profile)")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Post to Instagram")
     parser.add_argument("--caption", required=True, help="Post caption")
-    parser.add_argument("--image", required=True, help="Path to image file")
+    parser.add_argument("--media", required=True, nargs="+",
+                        help="Paths to image/video files")
     args = parser.parse_args()
-    post_ig(args.caption, args.image)
+    post_ig(args.caption, args.media)
 
 
 if __name__ == "__main__":
