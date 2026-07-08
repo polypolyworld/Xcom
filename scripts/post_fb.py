@@ -40,9 +40,17 @@ def login_fb(page, email: str, password: str) -> bool:
     pass_input.fill(password)
     page.wait_for_timeout(500)
 
-    login_btn = page.query_selector('button[name="login"]')
+    login_btn = (
+        page.query_selector('button[name="login"]')
+        or page.query_selector('button[type="submit"]')
+        or page.query_selector('[aria-label="Accessible login button"]')
+    )
     if login_btn:
         login_btn.click()
+    else:
+        # Fallback: current facebook.com may not expose button[name="login"];
+        # submitting the password field triggers the same login flow.
+        pass_input.press("Enter")
     page.wait_for_timeout(5000)
 
     # Verify login succeeded
