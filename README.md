@@ -8,7 +8,7 @@
 |------|------|----------|
 | X (Twitter) | [@MyriadMarkets](https://x.com/MyriadMarkets) | [@Myriadpress](https://x.com/Myriadpress) |
 | Facebook | [PolymarketHQ](https://www.facebook.com/PolymarketHQ) | Myriad Press 個人帳號 |
-| Instagram | [@polymarket](https://www.instagram.com/polymarket/) | [polypolyworld](https://www.instagram.com/polypolyworld/) |
+| Instagram | [@polymarket](https://www.instagram.com/polymarket/) | [myriad.press](https://www.instagram.com/myriad.press/)（原 polypolyworld 已被封禁） |
 
 ## 功能
 
@@ -133,6 +133,36 @@ polypolyworld 帳號曾在自動發布後觸發 IG 風控（頁面跳轉至 `ins
 - 儘量固定同一瀏覽器環境與 IP，避免頻繁更換 sessionid
 - 對搬運影片做輕度轉碼（如重新編碼、裁剪首尾）以改變檔案指紋
 - 觸發驗證後，用手機 App 從常用網路完成人工驗證，等待 1–2 天再恢復自動發布
+
+## Instagram 養號策略（新帳號適用，如 myriad.press）
+
+依上次封號原因定制，頻率取略積極方案：
+
+### 第 1 週：只養不發
+- 每天 2–3 次、每次 10–20 分鐘真人式瀏覽：刷首頁/Reels、看 Stories、給相關內容（足球、預測市場、財經）點讚 5–10 個
+- 完善資料：頭像、簡介；關注 30–60 個相關帳號（Polymarket、Kalshi、體育媒體），分多天進行
+- 全程固定同一瀏覽器環境與 IP，不要頻繁更換 sessionid
+
+### 第 2 週：低頻起步
+- 每 1–2 天發 1 帖，先發純圖片，再逐步加輪播與影片
+- 發帖前先瀏覽 5–10 分鐘，發完不要馬上退出，再互動幾分鐘
+- 影片輕度轉碼（重編碼/裁首尾）改變檔案指紋，避免與源帳號媒體完全一致
+
+### 第 3–4 週：逐步提頻
+- 每天 1–2 帖，間隔 4 小時以上；穿插 Stories、點讚與留言
+- 定期回覆留言、使用站內訊息，提高「真人分」
+
+### 第 2 個月起：穩定運營
+- 每天 2–3 帖，單帖間隔仍保持 3–4 小時以上，每天總互動（讚/留言/瀏覽）多於發帖次數
+- 觀察帳號健康：若觸達下降或出現任何驗證提示，立即降回每天 1 帖
+
+### 紅線（上次封號的直接誘因，任何階段都不可觸碰）
+- ❌ 短時間連發多條含影片的輪播
+- ❌ 登入後直接發帖、發完即走
+- ❌ sessionid 在多個 IP/設備指紋間來回使用
+- ❌ 媒體檔案與其他帳號已發內容逐位元組相同
+
+一旦出現「Confirm you're human」，立即停止自動化，用手機 App 在常用網路人工完成驗證，冷卻 24–48 小時再恢復。
 
 ## 來源標註
 
