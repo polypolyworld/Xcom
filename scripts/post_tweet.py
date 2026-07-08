@@ -96,18 +96,19 @@ def post_tweet(text: str, image_path: str | None = None) -> None:
                 print("WARNING: File input not found, posting without image",
                       file=sys.stderr)
 
-        # Click Post button
-        post_btn = page.query_selector('button[data-testid="tweetButton"]')
-        if not post_btn:
-            # Fallback: find button with text "Post"
-            post_btn = page.query_selector('button:has-text("Post")')
-        if post_btn:
-            post_btn.click()
-            page.wait_for_timeout(3000)
-            print("Tweet posted successfully")
-        else:
-            print("ERROR: Post button not found", file=sys.stderr)
+        # Submit with keyboard shortcut (avoids overlays intercepting the
+        # Post button click)
+        page.click('[data-testid="tweetTextarea_0"]')
+        page.keyboard.press("Control+Enter")
+        page.wait_for_timeout(4000)
+
+        # Verify the composer cleared (indicates the tweet was sent)
+        composer = page.query_selector('[data-testid="tweetTextarea_0"]')
+        if composer and composer.inner_text().strip():
+            print("ERROR: Composer still has text — tweet may not have posted",
+                  file=sys.stderr)
             sys.exit(1)
+        print("Tweet posted successfully")
 
 
 def main() -> None:
