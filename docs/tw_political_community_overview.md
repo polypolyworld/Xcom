@@ -182,6 +182,25 @@
 - 苗栗钟东锦、金门陈福海为无党籍，但普遍被视为泛蓝阵营。
 - 各县市议会党团、蓝绿立委/议员个人粉专同样立场清晰，可由上述党部粉专的追踪/贴文延伸发现。
 
+### 理性分析选举局势的账号（学术、数据与民调向）
+
+> 以下账号以数据、学术研究或长期民调为基础分析选举局势（含县市/选区层级的地方分析），情绪化程度低，适合作为校准基准。
+> 民调机构各有方法论与色彩差异（如美丽岛、TVBS），应多家交叉比对而非单一采信。
+
+- 菜市场政治学（政治学者群体科普，常有县市/选区分析）：[Facebook](https://www.facebook.com/whogovernstw)｜[网站](https://whogovernstw.org/)
+- 小笠原欣幸（东京外国语大学教授，台湾各县市选举预测与复盘权威）：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%AC%A3%E5%B9%B8)｜[Threads 检索](https://www.threads.com/search?q=%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%AC%A3%E5%B9%B8)
+- Frozen Garlic 凍蒜（Nathan Batto，中研院学者，深入到乡镇/选区层级的英文选举分析）：[博客](https://frozengarlic.wordpress.com/)
+- 王宏恩（内华达大学政治系，选举数据与民调方法分析）：[Facebook 检索](https://www.facebook.com/search/top?q=%E7%8E%8B%E5%AE%8F%E6%81%A9)｜[Threads 检索](https://www.threads.com/search?q=%E7%8E%8B%E5%AE%8F%E6%81%A9)
+- 台湾民意基金会（游盈隆，每月例行民调含政党支持度趋势）：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%8F%B0%E7%81%A3%E6%B0%91%E6%84%8F%E5%9F%BA%E9%87%91%E6%9C%83)｜[网站](https://www.tpof.org/)
+- 政大选举研究中心（政党认同、统独立场长期趋势数据）：[网站](https://esc.nccu.edu.tw/)
+- 中选会选举资料库（历次选举各县市/村里得票的官方原始数据）：[网站](https://db.cec.gov.tw/)
+- 美丽岛电子报（吴子嘉，滚动民调常做县市交叉分析；立场有争议、数据可参考）：[网站](https://www.my-formosa.com/)｜[Facebook 检索](https://www.facebook.com/search/top?q=%E7%BE%8E%E9%BA%97%E5%B3%B6%E9%9B%BB%E5%AD%90%E5%A0%B1)
+- TVBS 民调中心（蓝媒背景但民调专业度高，常发布县市长满意度调查）：[网站](https://www.tvbs.com.tw/poll-center)
+- 联合报系民意调查中心（县市施政满意度等长期调查）：[Facebook 检索](https://www.facebook.com/search/top?q=%E8%81%AF%E5%90%88%E5%A0%B1%E6%B0%91%E6%84%8F%E8%AA%BF%E6%9F%A5)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E8%81%AF%E5%90%88%E5%A0%B1%20%E6%B0%91%E8%AA%BF)
+- 沃草国会无双 / 投票指南（地方议员、立委问政与投票记录数据）：[网站](https://councils.g0v.tw/)｜[Facebook](https://www.facebook.com/watchout.tw/)
+
+使用建议：以中选会官方得票为底、政大选研与台湾民意基金会看长期趋势、菜市场政治学与小笠原欣幸/Frozen Garlic 看县市层级解读，再用多家民调交叉验证。
+
 ## 通用五类社群（各县市大致共有，强弱比例不同）
 1. **政治人物官方粉专 / 服务处**：最正式、署名清楚（市长、立委、议员）。
 2. **在地生活大社团**（「我是○○人」「○○大小事」）：政治只是其中议题，情绪浓、扩散快，立场混杂。
