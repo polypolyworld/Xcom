@@ -36,11 +36,116 @@
 
 规律：南绿北蓝、离岛与花东极蓝、中彰投与双北桃为主战摇摆区、新竹白色第三势力最突出。
 
-## 可 follow 的公开权威账号（研究/校准用途）
-- 选举数据/民意：中央选举委员会、政大选举研究中心、台湾民意基金会、台湾智库、美丽岛电子报民调、TVBS 民调中心
-- 新闻（跨光谱）：中央社、公视新闻、报导者；自由时报、三立、民视（偏绿）；联合报、中国时报、TVBS（偏蓝）；镜周刊、天下杂志
-- 事实查核：台湾事实查核中心、MyGoPen、Cofacts 真的假的
-- 政党官方：民主进步党、中国国民党、台湾民众党
+## 公开社交媒体观察池（研究/校准用途）
+
+> 以下以 Facebook、Instagram、Threads、YouTube、X、LINE、PTT、Dcard 等社交平台为主。
+> 收录不等于背书，也不表示账号当前立场固定；非官方账号、节目与社团尤其需要交叉查证。
+> 平台账号可能改名、停更或被停权，使用前应复核账号简介、近期活动与外部引用。
+
+### 政党与政治组织
+
+- 民主进步党：[Facebook](https://www.facebook.com/dpptw/)｜[Instagram](https://www.instagram.com/dpp_taiwan/)｜[Threads](https://www.threads.com/@dpp_taiwan)｜[YouTube](https://www.youtube.com/@DPPonline)｜[X](https://x.com/DPPonline)｜[LINE](https://page.line.me/dpponline)
+- 中国国民党：[Facebook](https://www.facebook.com/mykmt/)｜[Instagram](https://www.instagram.com/kuomintang/)｜[Threads](https://www.threads.com/@kuomintang)｜[YouTube](https://www.youtube.com/@KMTTV)｜[X](https://x.com/kuomintang)｜[LINE](https://page.line.me/kmtonline)
+- 台湾民众党：[Facebook](https://www.facebook.com/TPPfanpage)｜[Instagram](https://www.instagram.com/tpp_taiwan/)｜[Threads](https://www.threads.com/@tpp_taiwan)｜[YouTube／民众之声](https://www.youtube.com/@TPP_Media)｜[X](https://x.com/tpp_taiwan)｜[LINE](https://page.line.me/271pnocl)
+- 时代力量：[Facebook](https://www.facebook.com/newpowerparty/)｜[Instagram](https://www.instagram.com/newpowerparty/)｜[Threads 检索](https://www.threads.com/search?q=%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F)
+- 台湾基进：[Facebook](https://www.facebook.com/Statebuilding.tw/)｜[Instagram](https://www.instagram.com/statebuilding.tw/)｜[Threads](https://www.threads.com/@statebuilding.tw)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3%E5%9F%BA%E9%80%B2)
+- 台湾绿党：[Facebook](https://www.facebook.com/greenpartytaiwan/)｜[Instagram](https://www.instagram.com/greenparty_tw/)｜[Threads](https://www.threads.com/@greenparty_tw)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3%E7%B6%A0%E9%BB%A8)
+- 社会民主党：[Facebook](https://www.facebook.com/SDParty.tw/)｜[Instagram 检索](https://www.instagram.com/explore/search/keyword/?q=%E7%A4%BE%E6%9C%83%E6%B0%91%E4%B8%BB%E9%BB%A8)｜[Threads 检索](https://www.threads.com/search?q=%E7%A4%BE%E6%9C%83%E6%B0%91%E4%B8%BB%E9%BB%A8)
+
+### 新闻媒体与政论节目（跨光谱）
+
+- 中央社：[Facebook](https://www.facebook.com/cnanewstaiwan/)｜[Instagram](https://www.instagram.com/cnanews_tw/)｜[Threads](https://www.threads.com/@cnanews_tw)｜[YouTube](https://www.youtube.com/@cnanews)
+- 公视新闻：[Facebook](https://www.facebook.com/pnnpts/)｜[Instagram](https://www.instagram.com/pts.news/)｜[Threads](https://www.threads.com/@pts.news)｜[YouTube](https://www.youtube.com/@PNNPTS)
+- 报导者：[Facebook](https://www.facebook.com/twreporter/)｜[Instagram](https://www.instagram.com/twreporter/)｜[Threads](https://www.threads.com/@twreporter)｜[YouTube](https://www.youtube.com/@twreporter)
+- READr：[Facebook](https://www.facebook.com/readr.tw/)｜[Instagram](https://www.instagram.com/readr.tw/)｜[YouTube 检索](https://www.youtube.com/results?search_query=READr)
+- 自由时报：[Facebook](https://www.facebook.com/m.ltn.tw/)｜[Instagram](https://www.instagram.com/ltn_news/)｜[YouTube](https://www.youtube.com/@ltnnews)
+- 三立新闻：[Facebook](https://www.facebook.com/setnews/)｜[Instagram](https://www.instagram.com/setn/)｜[Threads](https://www.threads.com/@setn)｜[YouTube](https://www.youtube.com/@SETN)
+- 民视新闻：[Facebook](https://www.facebook.com/FTVNews53/)｜[Instagram](https://www.instagram.com/ftvnews/)｜[YouTube](https://www.youtube.com/@FTVCP)
+- 联合新闻网：[Facebook](https://www.facebook.com/myudn/)｜[Instagram](https://www.instagram.com/udngroup/)｜[Threads](https://www.threads.com/@udnplus)｜[YouTube](https://www.youtube.com/@udn_video)
+- 中国时报：[Facebook](https://www.facebook.com/CTfans/)｜[Instagram](https://www.instagram.com/chinatimes/)｜[YouTube](https://www.youtube.com/@ChinaTimes)
+- TVBS 新闻：[Facebook](https://www.facebook.com/tvbsfb/)｜[Instagram](https://www.instagram.com/tvbs_news/)｜[Threads](https://www.threads.com/@tvbs_news)｜[YouTube](https://www.youtube.com/@TVBSNEWS01)
+- 东森新闻：[Facebook](https://www.facebook.com/news.ebc/)｜[Instagram](https://www.instagram.com/ebcnews_tw/)｜[YouTube](https://www.youtube.com/@newsebc)
+- 中天新闻：[Facebook](https://www.facebook.com/ctitv.news/)｜[Instagram](https://www.instagram.com/cti_news/)｜[YouTube](https://www.youtube.com/@CtiNews)
+- 镜新闻：[Facebook](https://www.facebook.com/mnews.tw/)｜[Instagram](https://www.instagram.com/mnews_tw/)｜[YouTube](https://www.youtube.com/@mnewstw)
+- 镜周刊：[Facebook](https://www.facebook.com/mirrormediamg/)｜[Instagram](https://www.instagram.com/mirrormedia.mg/)｜[Threads](https://www.threads.com/@mirrormedia.mg)｜[YouTube](https://www.youtube.com/@mirrormedia)
+- 天下杂志：[Facebook](https://www.facebook.com/cwgroup/)｜[Instagram](https://www.instagram.com/commonwealth_magazine/)｜[YouTube](https://www.youtube.com/@CommonWealthMagazine)
+- 关键评论网：[Facebook](https://www.facebook.com/TheNewsLens/)｜[Instagram](https://www.instagram.com/thenewslens/)｜[YouTube](https://www.youtube.com/@TheNewsLens)
+- Newtalk 新闻：[Facebook](https://www.facebook.com/newtalk.tw/)｜[YouTube 检索](https://www.youtube.com/results?search_query=Newtalk%E6%96%B0%E8%81%9E)
+- 风传媒：[Facebook](https://www.facebook.com/stormmedia/)｜[Instagram](https://www.instagram.com/stormmedia_tw/)｜[YouTube](https://www.youtube.com/@stormmedia)
+- 公视《有话好说》：[Facebook 检索](https://www.facebook.com/search/top?q=%E6%9C%89%E8%A9%B1%E5%A5%BD%E8%AA%AA)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E5%85%AC%E8%A6%96%E6%9C%89%E8%A9%B1%E5%A5%BD%E8%AA%AA)
+- 民视《台湾最前线》：[Threads](https://www.threads.com/@twsuperline)｜[YouTube 播放列表检索](https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3%E6%9C%80%E5%89%8D%E7%B7%9A)
+- TVBS《少康战情室》：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%B0%91%E5%BA%B7%E6%88%B0%E6%83%85%E5%AE%A4)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E5%B0%91%E5%BA%B7%E6%88%B0%E6%83%85%E5%AE%A4)
+- 东森《关键时刻》：[Facebook 检索](https://www.facebook.com/search/top?q=%E9%97%9C%E9%8D%B5%E6%99%82%E5%88%BB)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E9%97%9C%E9%8D%B5%E6%99%82%E5%88%BB)
+- 《政经关不了》：[Facebook 检索](https://www.facebook.com/search/top?q=%E6%94%BF%E7%B6%93%E9%97%9C%E4%B8%8D%E4%BA%86)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E6%94%BF%E7%B6%93%E9%97%9C%E4%B8%8D%E4%BA%86)
+
+### 事实查核、公民科技与监督组织
+
+- 台湾事实查核中心：[Facebook](https://www.facebook.com/taiwantfc/)｜[Instagram](https://www.instagram.com/taiwan_factcheckcenter/)｜[Threads](https://www.threads.com/@taiwan_factcheckcenter)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3%E4%BA%8B%E5%AF%A6%E6%9F%A5%E6%A0%B8%E4%B8%AD%E5%BF%83)
+- MyGoPen：[Facebook](https://www.facebook.com/mygopen/)｜[Instagram](https://www.instagram.com/mygopen/)｜[Threads](https://www.threads.com/@mygopen)｜[YouTube](https://www.youtube.com/@mygopen)
+- Cofacts 真的假的：[Facebook](https://www.facebook.com/cofacts/)｜[LINE](https://line.me/R/ti/p/%40cofacts)｜[YouTube 检索](https://www.youtube.com/results?search_query=Cofacts)
+- g0v 零时政府：[Facebook](https://www.facebook.com/g0v.tw/)｜[YouTube 检索](https://www.youtube.com/results?search_query=g0v%E9%9B%B6%E6%99%82%E6%94%BF%E5%BA%9C)｜[X](https://x.com/g0vtw)
+- 沃草 Watchout：[Facebook](https://www.facebook.com/watchout.tw/)｜[Instagram](https://www.instagram.com/watchout.tw/)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E6%B2%83%E8%8D%89Watchout)
+- 公民监督国会联盟：[Facebook](https://www.facebook.com/ccw.org.tw/)｜[Instagram 检索](https://www.instagram.com/explore/search/keyword/?q=%E5%85%AC%E6%B0%91%E7%9B%A3%E7%9D%A3%E5%9C%8B%E6%9C%83%E8%81%AF%E7%9B%9F)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E5%85%AC%E6%B0%91%E7%9B%A3%E7%9D%A3%E5%9C%8B%E6%9C%83%E8%81%AF%E7%9B%9F)
+- 台湾人权促进会：[Facebook](https://www.facebook.com/tahr1984/)｜[Instagram](https://www.instagram.com/tahr1984/)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%AC%8A%E4%BF%83%E9%80%B2%E6%9C%83)
+- 台湾公民阵线：[Facebook](https://www.facebook.com/CivilTaiwan/)｜[Threads 检索](https://www.threads.com/search?q=%E5%8F%B0%E7%81%A3%E5%85%AC%E6%B0%91%E9%99%A3%E7%B7%9A)
+
+### 自媒体、评论者与 Podcast 检索入口
+
+> 此类账号通常观点鲜明、立场可能变化；适合观察叙事框架与受众互动，不宜单独作为事实来源。
+
+- 百灵果 News：[YouTube](https://www.youtube.com/c/%E7%99%BE%E9%9D%88%E6%9E%9CNews)｜[Instagram 检索](https://www.instagram.com/explore/search/keyword/?q=%E7%99%BE%E9%9D%88%E6%9E%9CNews)
+- 志祺七七：[YouTube 检索](https://www.youtube.com/results?search_query=%E5%BF%97%E7%A5%BA%E4%B8%83%E4%B8%83)｜[Threads 检索](https://www.threads.com/search?q=%E5%BF%97%E7%A5%BA%E4%B8%83%E4%B8%83)
+- 敏迪选读：[YouTube 检索](https://www.youtube.com/results?search_query=%E6%95%8F%E8%BF%AA%E9%81%B8%E8%AE%80)｜[Instagram 检索](https://www.instagram.com/explore/search/keyword/?q=%E6%95%8F%E8%BF%AA%E9%81%B8%E8%AE%80)
+- 范琪斐的美国时间：[YouTube](https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw)｜[Threads 检索](https://www.threads.com/search?q=%E8%8C%83%E7%90%AA%E6%96%90)
+- Cheap：[YouTube 检索](https://www.youtube.com/results?search_query=Cheap%E5%8F%B0%E7%81%A3)｜[Facebook 检索](https://www.facebook.com/search/top?q=Cheap)
+- 呱吉：[YouTube 检索](https://www.youtube.com/results?search_query=%E5%91%B1%E5%90%89)｜[Facebook 检索](https://www.facebook.com/search/top?q=%E5%91%B1%E5%90%89)
+- 黄暐瀚：[YouTube 检索](https://www.youtube.com/results?search_query=%E9%BB%83%E6%9A%90%E7%80%9A)｜[Threads 检索](https://www.threads.com/search?q=%E9%BB%83%E6%9A%90%E7%80%9A)
+- 赵少康：[YouTube 检索](https://www.youtube.com/results?search_query=%E8%B6%99%E5%B0%91%E5%BA%B7)｜[Facebook 检索](https://www.facebook.com/search/top?q=%E8%B6%99%E5%B0%91%E5%BA%B7)
+- 不演了新闻台：[YouTube 检索](https://www.youtube.com/results?search_query=%E4%B8%8D%E6%BC%94%E4%BA%86%E6%96%B0%E8%81%9E%E5%8F%B0)｜[Facebook 检索](https://www.facebook.com/search/top?q=%E4%B8%8D%E6%BC%94%E4%BA%86%E6%96%B0%E8%81%9E%E5%8F%B0)
+- 不礼貌乡民团：[Facebook 检索](https://www.facebook.com/search/top?q=%E4%B8%8D%E7%A6%AE%E8%B2%8C%E9%84%89%E6%B0%91%E5%9C%98)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E4%B8%8D%E7%A6%AE%E8%B2%8C%E9%84%89%E6%B0%91%E5%9C%98)
+- 只是堵蓝：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%8F%AA%E6%98%AF%E5%A0%B5%E8%97%8D)｜[Threads 检索](https://www.threads.com/search?q=%E5%8F%AA%E6%98%AF%E5%A0%B5%E8%97%8D)
+- 政客爽：[Facebook 检索](https://www.facebook.com/search/top?q=%E6%94%BF%E5%AE%A2%E7%88%BD)｜[Threads 检索](https://www.threads.com/search?q=%E6%94%BF%E5%AE%A2%E7%88%BD)
+- 摄徒日记 Fun TV：[YouTube 检索](https://www.youtube.com/results?search_query=%E6%94%9D%E5%BE%92%E6%97%A5%E8%A8%98FunTV)｜[Facebook 检索](https://www.facebook.com/search/top?q=%E6%94%9D%E5%BE%92%E6%97%A5%E8%A8%98)
+
+### 论坛、匿名社群与议题扩散入口
+
+- PTT 政治黑特板：[PTT](https://www.ptt.cc/bbs/HatePolitics/index.html)｜[网页索引](https://www.pttweb.cc/bbs/HatePolitics)
+- PTT 八卦板：[PTT](https://www.ptt.cc/bbs/Gossiping/index.html)（政治文受板规与发文时段影响）
+- Dcard 时事板：[Dcard](https://www.dcard.tw/f/trending)
+- 巴哈姆特场外休憩区：[哈啦区](https://forum.gamer.com.tw/B.php?bsn=60076)
+- Facebook 社团总检索：[政治](https://www.facebook.com/search/groups/?q=%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB)｜[公共议题](https://www.facebook.com/search/groups/?q=%E5%85%AC%E5%85%B1%E8%AD%B0%E9%A1%8C)｜[地方大小事](https://www.facebook.com/search/groups/?q=%E5%9C%B0%E6%96%B9%E5%A4%A7%E5%B0%8F%E4%BA%8B)
+- Threads 主题检索：[台湾政治](https://www.threads.com/search?q=%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB)｜[立法院](https://www.threads.com/search?q=%E7%AB%8B%E6%B3%95%E9%99%A2)｜[地方政治](https://www.threads.com/search?q=%E5%9C%B0%E6%96%B9%E6%94%BF%E6%B2%BB)
+- X 即时检索：[台湾政治](https://x.com/search?q=%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB&src=typed_query&f=live)｜[立法院](https://x.com/search?q=%E7%AB%8B%E6%B3%95%E9%99%A2&src=typed_query&f=live)
+- YouTube 综合检索：[台湾政治](https://www.youtube.com/results?search_query=%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB)｜[县市议会](https://www.youtube.com/results?search_query=%E7%B8%A3%E5%B8%82%E8%AD%B0%E6%9C%83)
+
+### 22 县市地方社群发现入口
+
+> 这里使用平台“社团/实时贴文检索”而非指定单一社团，目的是扩大样本并降低把某一群组误当全县市民意的风险。
+
+| 县市 | Facebook 公开社团检索 | X 实时讨论检索 |
+|---|---|---|
+| 台北市 | [台北大小事](https://www.facebook.com/search/groups/?q=%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [台北政治](https://x.com/search?q=%E5%8F%B0%E5%8C%97%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 新北市 | [新北大小事](https://www.facebook.com/search/groups/?q=%E6%96%B0%E5%8C%97%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [新北政治](https://x.com/search?q=%E6%96%B0%E5%8C%97%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 桃园市 | [桃园大小事](https://www.facebook.com/search/groups/?q=%E6%A1%83%E5%9C%92%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [桃园政治](https://x.com/search?q=%E6%A1%83%E5%9C%92%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 台中市 | [台中大小事](https://www.facebook.com/search/groups/?q=%E5%8F%B0%E4%B8%AD%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [台中政治](https://x.com/search?q=%E5%8F%B0%E4%B8%AD%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 台南市 | [台南大小事](https://www.facebook.com/search/groups/?q=%E5%8F%B0%E5%8D%97%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [台南政治](https://x.com/search?q=%E5%8F%B0%E5%8D%97%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 高雄市 | [高雄大小事](https://www.facebook.com/search/groups/?q=%E9%AB%98%E9%9B%84%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [高雄政治](https://x.com/search?q=%E9%AB%98%E9%9B%84%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 基隆市 | [基隆大小事](https://www.facebook.com/search/groups/?q=%E5%9F%BA%E9%9A%86%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [基隆政治](https://x.com/search?q=%E5%9F%BA%E9%9A%86%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 新竹市 | [新竹市大小事](https://www.facebook.com/search/groups/?q=%E6%96%B0%E7%AB%B9%E5%B8%82%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [新竹市政治](https://x.com/search?q=%E6%96%B0%E7%AB%B9%E5%B8%82%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 新竹县 | [新竹县大小事](https://www.facebook.com/search/groups/?q=%E6%96%B0%E7%AB%B9%E7%B8%A3%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [新竹县政治](https://x.com/search?q=%E6%96%B0%E7%AB%B9%E7%B8%A3%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 苗栗县 | [苗栗大小事](https://www.facebook.com/search/groups/?q=%E8%8B%97%E6%A0%97%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [苗栗政治](https://x.com/search?q=%E8%8B%97%E6%A0%97%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 彰化县 | [彰化大小事](https://www.facebook.com/search/groups/?q=%E5%BD%B0%E5%8C%96%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [彰化政治](https://x.com/search?q=%E5%BD%B0%E5%8C%96%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 南投县 | [南投大小事](https://www.facebook.com/search/groups/?q=%E5%8D%97%E6%8A%95%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [南投政治](https://x.com/search?q=%E5%8D%97%E6%8A%95%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 云林县 | [云林大小事](https://www.facebook.com/search/groups/?q=%E9%9B%B2%E6%9E%97%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [云林政治](https://x.com/search?q=%E9%9B%B2%E6%9E%97%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 嘉义县 | [嘉义县大小事](https://www.facebook.com/search/groups/?q=%E5%98%89%E7%BE%A9%E7%B8%A3%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [嘉义县政治](https://x.com/search?q=%E5%98%89%E7%BE%A9%E7%B8%A3%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 嘉义市 | [嘉义市大小事](https://www.facebook.com/search/groups/?q=%E5%98%89%E7%BE%A9%E5%B8%82%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [嘉义市政治](https://x.com/search?q=%E5%98%89%E7%BE%A9%E5%B8%82%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 屏东县 | [屏东大小事](https://www.facebook.com/search/groups/?q=%E5%B1%8F%E6%9D%B1%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [屏东政治](https://x.com/search?q=%E5%B1%8F%E6%9D%B1%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 宜兰县 | [宜兰大小事](https://www.facebook.com/search/groups/?q=%E5%AE%9C%E8%98%AD%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [宜兰政治](https://x.com/search?q=%E5%AE%9C%E8%98%AD%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 花莲县 | [花莲大小事](https://www.facebook.com/search/groups/?q=%E8%8A%B1%E8%93%AE%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [花莲政治](https://x.com/search?q=%E8%8A%B1%E8%93%AE%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 台东县 | [台东大小事](https://www.facebook.com/search/groups/?q=%E5%8F%B0%E6%9D%B1%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [台东政治](https://x.com/search?q=%E5%8F%B0%E6%9D%B1%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 澎湖县 | [澎湖大小事](https://www.facebook.com/search/groups/?q=%E6%BE%8E%E6%B9%96%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [澎湖政治](https://x.com/search?q=%E6%BE%8E%E6%B9%96%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 金门县 | [金门大小事](https://www.facebook.com/search/groups/?q=%E9%87%91%E9%96%80%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [金门政治](https://x.com/search?q=%E9%87%91%E9%96%80%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
+| 连江县 | [马祖大小事](https://www.facebook.com/search/groups/?q=%E9%A6%AC%E7%A5%96%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [马祖政治](https://x.com/search?q=%E9%A6%AC%E7%A5%96%20%E6%94%BF%E6%B2%BB&src=typed_query&f=live) |
 
 ## 通用五类社群（各县市大致共有，强弱比例不同）
 1. **政治人物官方粉专 / 服务处**：最正式、署名清楚（市长、立委、议员）。
