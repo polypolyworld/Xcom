@@ -201,6 +201,38 @@
 
 使用建议：以中选会官方得票为底、政大选研与台湾民意基金会看长期趋势、菜市场政治学与小笠原欣幸/Frozen Garlic 看县市层级解读，再用多家民调交叉验证。
 
+### 跨色彩的理性评论者（按光谱分组）
+
+> 与上节的学术/数据账号互补：以下是各阵营内相对讲逻辑、常做选情推演的评论者，按大致光谱分组，便于对照同一事件在不同色彩下的理性解读。
+> 评论者立场可能随时间移动（如郭正亮由绿转蓝），使用前请复核其近期言论。
+
+偏蓝（泛蓝视角的理性分析）：
+- 黄暐瀚（广播主持，选举数据娴熟、蓝营中相对中性）：[Facebook 检索](https://www.facebook.com/search/top?q=%E9%BB%83%E6%9A%90%E7%80%9A)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E9%BB%83%E6%9A%90%E7%80%9A)
+- 陈凤馨（News98 财经起家，政策与选情分析）：[Facebook 检索](https://www.facebook.com/search/top?q=%E9%99%B3%E9%B3%B3%E9%A6%A8)｜[YouTube 检索](https://www.youtube.com/results?search_query=%E9%A2%A8%E5%90%91%E9%BE%8D%E9%B3%B3%E9%85%8D)
+- 钮则勋（文化大学教授，竞选传播与广告策略分析）：[Facebook 检索](https://www.facebook.com/search/top?q=%E9%88%95%E5%89%87%E5%8B%B3)
+- 单厚之（资深媒体人，中间偏蓝的政局评论）：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%96%AE%E5%8E%9A%E4%B9%8B)
+- 郭正亮（前民进党立委、现偏蓝，熟悉绿营内部逻辑）：[YouTube 检索](https://www.youtube.com/results?search_query=%E9%83%AD%E6%AD%A3%E4%BA%AE)｜[Facebook 检索](https://www.facebook.com/search/top?q=%E9%83%AD%E6%AD%A3%E4%BA%AE)
+
+偏绿（泛绿视角的理性分析）：
+- 吴崑玉（前亲民党文宣部副主任，现偏绿，组织战与选战操盘分析）：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%90%B3%E5%B4%91%E7%8E%89)
+- 林浊水（前民进党立委，绿营内部批判性论述）：[Facebook 检索](https://www.facebook.com/search/top?q=%E6%9E%97%E6%BF%81%E6%B0%B4)
+- 张宇韶（两岸政策协会研究员，绿营智库视角）：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%BC%B5%E5%AE%87%E9%9F%B6)
+- 沈荣钦（加拿大约克大学教授，产业经济切入政治分析）：[Facebook 检索](https://www.facebook.com/search/top?q=%E6%B2%88%E6%A6%AE%E6%AC%BD)
+- 王时齐（资深媒体人，偏绿政论）：[Facebook 检索](https://www.facebook.com/search/top?q=%E7%8E%8B%E6%99%82%E9%BD%8A)
+
+白营/第三势力视角：
+- 黄扬明（资深媒体人「剥雞」，熟悉民众党与蓝白互动内幕）：[Facebook 检索](https://www.facebook.com/search/top?q=%E9%BB%83%E6%8F%9A%E6%98%8E)
+- 张益赡（前民众党发言人，白营策略解读）：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%BC%B5%E7%9B%8A%E8%B4%8D)
+- 民众党文宣与「学姊」黄瀞莹等要角粉专（白营官方叙事）：[Facebook 检索](https://www.facebook.com/search/top?q=%E9%BB%83%E7%80%9E%E7%91%A9)
+
+中立/学院派（不易归入蓝绿）：
+- 王业立（台大政治系教授，选举制度与地方派系权威）：[Facebook 检索](https://www.facebook.com/search/top?q=%E7%8E%8B%E6%A5%AD%E7%AB%8B)
+- 洪永泰（台大退休教授，民调方法学专家）：[Facebook 检索](https://www.facebook.com/search/top?q=%E6%B4%AA%E6%B0%B8%E6%B3%B0)
+- 俞振华（政大选研中心，民调与选民行为）：[Facebook 检索](https://www.facebook.com/search/top?q=%E4%BF%9E%E6%8C%AF%E8%8F%AF)
+- 左正东（台大政治系，国际政治与两岸，曾任国民党国际部主任、色彩较淡）：[Facebook 检索](https://www.facebook.com/search/top?q=%E5%B7%A6%E6%AD%A3%E6%9D%B1)
+
+使用建议：对同一选情事件，至少各取蓝、绿、白一位评论者与一个学术/数据来源交叉对照，可有效剥离阵营叙事偏差。
+
 ## 通用五类社群（各县市大致共有，强弱比例不同）
 1. **政治人物官方粉专 / 服务处**：最正式、署名清楚（市长、立委、议员）。
 2. **在地生活大社团**（「我是○○人」「○○大小事」）：政治只是其中议题，情绪浓、扩散快，立场混杂。
