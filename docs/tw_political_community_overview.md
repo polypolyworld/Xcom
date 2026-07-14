@@ -235,7 +235,7 @@
 
 ## 通用五类社群（各县市大致共有，强弱比例不同）
 1. **政治人物官方粉专 / 服务处**：最正式、署名清楚（市长、立委、议员）。检索：[立委服务处](https://www.facebook.com/search/pages/?q=%E7%AB%8B%E5%A7%94%E6%9C%8D%E5%8B%99%E8%99%95)｜[议员服务处](https://www.facebook.com/search/pages/?q=%E8%AD%B0%E5%93%A1%E6%9C%8D%E5%8B%99%E8%99%95)｜县市长粉专见上方「22 县市立场清晰的地方粉专检索」表。
-2. **在地生活大社团**（「我是○○人」「○○大小事」）：政治只是其中议题，情绪浓、扩散快，立场混杂。检索：[我是○○人](https://www.facebook.com/search/groups/?q=%E6%88%91%E6%98%AF%E4%BA%BA)｜[○○大小事](https://www.facebook.com/search/groups/?q=%E5%A4%A7%E5%B0%8F%E4%BA%8B)｜各县市入口见上方「22 县市地方社群发现入口」表。
+2. **在地生活大社团**（「我是○○人」「○○大小事」）：政治只是其中议题，情绪浓、扩散快，立场混杂。检索：[我是○○人（例：我是台南人）](https://www.facebook.com/search/groups/?q=%E6%88%91%E6%98%AF%E5%8F%B0%E5%8D%97%E4%BA%BA)｜[○○大小事](https://www.facebook.com/search/groups/?q=%E5%A4%A7%E5%B0%8F%E4%BA%8B)｜各县市入口见上方「22 县市地方社群发现入口」表。
 3. **单一议题社团**（反某开发案、罢免/挺某人、护某政策）：立场最鲜明，但不代表全区民意。检索：[罢免](https://www.facebook.com/search/groups/?q=%E7%BD%B7%E5%85%8D)｜[自救会](https://www.facebook.com/search/groups/?q=%E8%87%AA%E6%95%91%E6%9C%83)｜[反开发](https://www.facebook.com/search/groups/?q=%E5%8F%8D%E9%96%8B%E7%99%BC)｜[公投](https://www.facebook.com/search/groups/?q=%E5%85%AC%E6%8A%95)。
 4. **名嘴 / 网红迷因社团**：多跨地域，靠情绪迷因带风向。检索：[政治迷因](https://www.facebook.com/search/groups/?q=%E6%94%BF%E6%B2%BB%E8%BF%B7%E5%9B%A0)｜[台湾迷因](https://www.facebook.com/search/top?q=%E5%8F%B0%E7%81%A3%E8%BF%B7%E5%9B%A0)｜代表账号见上方自媒体与跨色彩评论者两节。
 5. **爆料 / 民怨社团**（「靠北○○」类）：政治情绪温床，表面非政治。检索：[靠北社团](https://www.facebook.com/search/groups/?q=%E9%9D%A0%E5%8C%97)｜[爆料公社](https://www.facebook.com/search/top?q=%E7%88%86%E6%96%99%E5%85%AC%E7%A4%BE)｜[民怨](https://www.facebook.com/search/groups/?q=%E6%B0%91%E6%80%A8)。
