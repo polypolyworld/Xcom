@@ -270,6 +270,28 @@
 | 连江县 | [议员](https://www.facebook.com/search/pages/?q=%E9%80%A3%E6%B1%9F%E7%B8%A3%E8%AD%B0%E5%93%A1)｜[立委](https://www.facebook.com/search/pages/?q=%E9%A6%AC%E7%A5%96%E7%AB%8B%E5%A7%94) | [我是马祖人](https://www.facebook.com/Matsu.Info)｜[我是馬祖人](https://www.facebook.com/search/groups/?q=%E6%88%91%E6%98%AF%E9%A6%AC%E7%A5%96%E4%BA%BA)｜[大小事](https://www.facebook.com/search/groups/?q=%E9%A6%AC%E7%A5%96%E5%A4%A7%E5%B0%8F%E4%BA%8B) | [罢免](https://www.facebook.com/search/groups/?q=%E9%A6%AC%E7%A5%96%E7%BD%B7%E5%85%8D)｜[自救会](https://www.facebook.com/search/groups/?q=%E9%A6%AC%E7%A5%96%E8%87%AA%E6%95%91%E6%9C%83) | [迷因](https://www.facebook.com/search/top?q=%E9%A6%AC%E7%A5%96%E8%BF%B7%E5%9B%A0)｜[时事](https://www.facebook.com/search/groups/?q=%E9%A6%AC%E7%A5%96%E6%99%82%E4%BA%8B) | [靠北馬祖](https://www.facebook.com/search/top?q=%E9%9D%A0%E5%8C%97%E9%A6%AC%E7%A5%96)｜[爆料](https://www.facebook.com/search/groups/?q=%E9%A6%AC%E7%A5%96%E7%88%86%E6%96%99) |
 
 
+### 按内容相关性扩充的高人气在地账号（已验证直链）
+
+> 以下账号非按名字检索，而是按内容相关性（同系列网络、市政评论、议会监督、罢免动员、在地新闻）延伸发现，并逐一验证存在。
+> 「我是○○人」「好過日」「議會觀察」等系列在各县市常是政治讨论声量最高的在地入口。
+
+「我是○○人」系列（同一类在地大粉专网络，覆盖大多数县市）：
+- [我是台北人](https://www.facebook.com/Taipei.Info)｜[我是新北人](https://www.facebook.com/NewTaipei.Info)｜[我是桃园人](https://www.facebook.com/Taoyuan.Info)｜[我是台中人](https://www.facebook.com/Taichung.Info)｜[我是台南人](https://www.facebook.com/Tainan.Info)｜[我是高雄人](https://www.facebook.com/Kaohsiung.Info)｜[我是基隆人](https://www.facebook.com/Keelung.Info)｜[我是彰化人](https://www.facebook.com/Changhua.Info)｜[我是云林人](https://www.facebook.com/Yunlin.Info)｜[我是屏东人](https://www.facebook.com/Pingtung.Info)｜[我是宜兰人](https://www.facebook.com/Yilan.Info)｜[我是金门人](https://www.facebook.com/Kinmen.Info)｜[我是马祖人](https://www.facebook.com/Matsu.Info)
+- 同类：[Humans of Taipei 我是台北人](https://www.facebook.com/humansoftaipei)｜[我是中坜人](https://www.facebook.com/iChungLi)（区级人气社群）｜[我是花莲人（社团）](https://www.facebook.com/groups/1497686263828433)｜[我是南投人（社团）](https://www.facebook.com/groups/280606685467514)
+
+市政评论 / 在地政策型粉专（有明确论述、政治浓度高）：
+- [高雄好过日](https://www.facebook.com/takaogooday)（偏绿、政策论述型，全台同类型代表）｜[台南式 Tainan Style](https://www.facebook.com/tainanstyle2020)｜[好日台中](https://www.facebook.com/gooddaystaichung)｜[台中好过日](https://www.facebook.com/100067392572873)
+- [声量看政治](https://www.facebook.com/SOVPtw)（社群声量数据分析）｜[南投公啥喙](https://www.facebook.com/nantou.talk)｜[澎湖时事观察局](https://www.facebook.com/61589345270051)｜[黄琼慧桃园观察日记](https://www.facebook.com/hi54qn)
+
+议会监督型（县市议会问政观察，立场相对中性）：
+- [台湾议会观察联盟](https://www.facebook.com/councilwatchTW)｜[口袋国会](https://www.facebook.com/MyPocketCongress)｜[台中市议会观察](https://www.facebook.com/TCCCwatch)｜[台南议会观察联盟](https://www.facebook.com/tnccw2016)｜[彰化议会观察](https://www.facebook.com/chcc20)｜[花莲议会观察联盟](https://www.facebook.com/HualienCouncilWatch)｜[议起Hope台东](https://www.facebook.com/CCHopeTT)
+
+罢免 / 单一议题动员型（立场极鲜明，观察动员能量用）：
+- [全面罢免 Total Recall](https://www.facebook.com/TotalRecall2014)｜[拔萝波（罢免罗明才）](https://www.facebook.com/baluobo1111)｜[罢免高虹安：风城安心上路](https://www.facebook.com/hc.thebigrecall)
+
+在地新闻 / 论坛型社团（政治讨论密度高的县市级入口）：
+- 台北:[台北人讨论区（社团）](https://www.facebook.com/groups/942509732467321)｜新北:[我是新北人/新北市的大小事（社团）](https://www.facebook.com/groups/1308222700588131)｜桃园:[桃园在地生活大小事（社团）](https://www.facebook.com/groups/taoyuan.news)｜基隆:[基隆人事物所（社团）](https://www.facebook.com/groups/3066607200307153)｜新竹:[新竹在地人，关心在地事（社团）](https://www.facebook.com/groups/1488324784800045)｜苗栗:[苗栗大小事（社团）](https://www.facebook.com/groups/things.of.miaoli.county)｜彰化:[彰化人彰化事（社团）](https://www.facebook.com/groups/changhua.people)｜南投:[南投大小事](https://www.facebook.com/miles88888888)｜云林:[云林新闻网](https://www.facebook.com/YunLinynn20ch)｜嘉义:[嘉义市大小事（社团）](https://www.facebook.com/groups/239518466457942)｜屏东:[屏东人在地事（社团）](https://www.facebook.com/groups/1395207847658878)｜宜兰:[宜兰在地新闻网（社团）](https://www.facebook.com/groups/1401502496784793)｜花莲:[花莲大小事（社团）](https://www.facebook.com/groups/158159644519049)｜台东:[台东大小事（社团）](https://www.facebook.com/groups/1638514329749141)｜澎湖:[澎湖公民论坛（社团）](https://www.facebook.com/groups/240153749393947)｜金门:[关心金门者（社团）](https://www.facebook.com/groups/d19706)｜马祖:[马祖爱趴GO](https://www.facebook.com/Go.go.Matsu)
+
 ---
 
 ## 六都
