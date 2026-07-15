@@ -302,6 +302,14 @@
 - 全国性人物后援会（人气最高的一批）：[柯文哲阿北粉丝后援会](https://www.facebook.com/groups/fansKP)｜[柯P后援会](https://www.facebook.com/DoctorKoW)｜[韩国瑜粉丝团](https://www.facebook.com/groups/492023552993597)｜[韩国瑜网路粉丝后援会](https://www.facebook.com/groups/1753212998228566)｜[赖清德全国网路后援会](https://www.facebook.com/groups/197563510414241)｜[赖清德网路后援会](https://www.facebook.com/DrLaichingteGOGOGO)｜[黄国昌官方后援会](https://www.facebook.com/groups/459291687973218)
 - 未验证到后援会社团的县市长：杨文科、周春米、林姿妙、饶庆铃、陈光复（多数仅有官方粉专）。
 
+深蓝/离岛县市的反对派（绿营/在野）账号（这些选区绿营组织薄弱、可见账号少，此为经验证的代表性人物与入口）：
+- 马祖（连江）：[李问 Wen Lii（民进党前连江县党部主委）](https://www.facebook.com/wen1949)｜[民进党连江县党部](https://www.facebook.com/DPP.matsu)
+- 金门：[董森堡（守望家园．改变金门，县议员）](https://www.facebook.com/senpowithkinmen)｜[金门自由天地（社团）](https://www.facebook.com/groups/1650767261910338)
+- 花莲：[萧美琴 Bi-khim Hsiao](https://www.facebook.com/Bikhim)｜[Kolas Yotaka](https://www.facebook.com/kolasyotaka.tw)｜[民进党花莲县党部](https://www.facebook.com/DPPhualien)
+- 台东：[刘櫂豪（民进党前立委）](https://www.facebook.com/ChaoHaoLiu)｜[民进党台东县党部](https://www.facebook.com/950ddp)
+- 其他蓝营执政县的绿营/在野代表：[曾玟学（苗栗，无党籍/前时力议员）](https://www.facebook.com/tsengwenhsueh)｜[周江杰（新竹县，民进党）](https://www.facebook.com/CCCHOUwin)｜[蔡培慧（南投，民进党）](https://www.facebook.com/ahuitsai.tw)｜[刘建国（云林，民进党立委）](https://www.facebook.com/liucnko.fans)｜[刘建国2026竞选云林县长后援会](https://www.facebook.com/YunlinChienKuoLiu)｜[杨曜（澎湖，民进党立委）](https://www.facebook.com/penghu.yao)｜[蔡适应（基隆，民进党）](https://www.facebook.com/keelungING)｜[陈俊宇（宜兰，民进党立委）](https://www.facebook.com/chunyuyilan)
+- 说明：绿营执政县市的「反对派」即蓝/白营，对应账号见上方县市党部与后援会各节。
+
 ---
 
 ## 六都
