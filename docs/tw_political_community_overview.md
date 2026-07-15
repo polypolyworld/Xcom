@@ -297,6 +297,11 @@
 
 其他常见命名格式（同类可循此扩展）：「○○大代誌/代誌」（例：[宜兰大代誌](https://www.facebook.com/groups/975883399096281)、[台中市民的代誌](https://www.facebook.com/groups/595534790566102)）、「○○人大小事」（例：[高雄人大小事](https://www.facebook.com/groups/KH.anything)、[屏东大小事](https://www.facebook.com/groups/PTeverything)）、「○○人日常」「○○新聞網」「大○○人」「○○同鄉會」等。
 
+政治人物「後援會/粉絲團」系列（同「虹粉知己」类型：支持者自发/半官方社团，动员与风向观察用；立场即其支持对象党籍）：
+- 县市长后援会：[蒋万安后援会](https://www.facebook.com/groups/729534059078044)｜[侯友宜后援会 UP Hou](https://www.facebook.com/unclepolicehou)｜[张善政后援会](https://www.facebook.com/ChangSanCheng.fans)｜[卢秀燕市长后援会](https://www.facebook.com/groups/346317130164473)｜[黄伟哲市长脸书后援会](https://www.facebook.com/groups/1544708062285298)｜[陈其迈-迈迈后援会](https://www.facebook.com/groups/MaiMai.Family)｜[陈其迈粉丝团](https://www.facebook.com/chimaifansclub)｜[谢国樑后援会](https://www.facebook.com/groups/1261009290704333)｜[高虹安新竹市长后援会](https://www.facebook.com/groups/3746504925672575)｜[钟东锦感恩行善后援会](https://www.facebook.com/100086801185723)｜[王惠美民间后援会](https://www.facebook.com/ilovewangkmt)｜[南投县长许淑华后援会](https://www.facebook.com/sunlifts2)｜[翁章梁后援会](https://www.facebook.com/groups/1134828587401466)｜[黄敏惠市长后援会](https://www.facebook.com/groups/927312176257241)｜[福海民间自发后援会（金门）](https://www.facebook.com/groups/418812287003386)
+- 全国性人物后援会（人气最高的一批）：[柯文哲阿北粉丝后援会](https://www.facebook.com/groups/fansKP)｜[柯P后援会](https://www.facebook.com/DoctorKoW)｜[韩国瑜粉丝团](https://www.facebook.com/groups/492023552993597)｜[韩国瑜网路粉丝后援会](https://www.facebook.com/groups/1753212998228566)｜[赖清德全国网路后援会](https://www.facebook.com/groups/197563510414241)｜[赖清德网路后援会](https://www.facebook.com/DrLaichingteGOGOGO)｜[黄国昌官方后援会](https://www.facebook.com/groups/459291687973218)
+- 未验证到后援会社团的县市长：杨文科、周春米、林姿妙、饶庆铃、陈光复（多数仅有官方粉专）。
+
 ---
 
 ## 六都
