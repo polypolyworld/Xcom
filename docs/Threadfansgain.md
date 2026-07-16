@@ -129,7 +129,7 @@ Threads 的 For you 流量對新帳號友好，但轉粉靠三件事：
 依使用者指示改變內容模式：不轉載/不 Quote，改從 PredictHub（myriad.press/integrate/index）「台灣2026九合一選舉」房間取材改寫為**自發帖**（原創摘要＋觀點＋配圖），變因仍為首行 Hook 型式：
 
 - **A（斷言式 Hook）**：北市運動政策（沈伯洋健身小巴 vs 蔣萬安 U-Sport，源自房間內公視新聞網PNN 內容），配房間原圖（沈蔣同框），tag「台灣政治」，09:21 UTC 發佈 → threads.com/@myriad.press/post/Da2TmF-jotR
-- **B（數字開頭對照）**：年輕選民/首投族數據（120萬首投族、民眾黨-7pp），配 matplotlib 自製支持度圖表，發佈時間與 permalink 見下。
+- **B（數字開頭對照）**：年輕選民/首投族數據（120萬首投族、民眾黨-7pp），配 matplotlib 自製支持度圖表，tag「台灣政治」，09:29 UTC 發佈 → threads.com/@myriad.press/post/Da2UhC7Dinq
 - 混雜變因：題材不同（運動政策 vs 選民結構）、圖片型式不同（新聞照 vs 圖表）；發佈皆為手動 GUI 操作（不用 Playwright）。
 - 同齡（+1h、+2h、+24h）數據另記。
 
