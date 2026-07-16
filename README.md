@@ -178,6 +178,84 @@ polypolyworld 帳號曾在自動發布後觸發 IG 風控（頁面跳轉至 `ins
 - 儘量保持瀏覽器會話不登出、復用已登入狀態（`post_fb.py` 已內建先檢測登入狀態、未登入才走帳密流程）
 - 個人帳號每天發帖 2–3 條內基本安全；補充頭像、封面、加幾個好友能顯著降低「假人」評分
 
+## Facebook 人工社群操作與轉發實測紀錄（2026-07-15）
+
+本節記錄一次以 Myriad Press 個人帳號（`profile.php?id=61591391267367`）進行的**人工瀏覽器操作**流程：加入菲律賓/台灣社群、瀏覽並排序貼文、以及完成個人動態「轉發（Share）」測試。此流程全程復用已登入的 Chrome 會話，未走 `post_fb.py` 的帳密登入路徑，可作為手動搬運與風控觀察的參考。
+
+### 1. 登入與驗證
+
+- 復用瀏覽器既有會話；帳密由使用者本人輸入，**驗證碼/裝置核准/兩步驗證一律由使用者操作**，自動化端不代填、不猜測。
+- 教訓：使用者明確表示「不要點 Log in，我來點」時，就不可代點；本次因代點觸發了裝置核准（Mac/iPad 核准）畫面，改由使用者處理後才繼續。
+
+### 2. 加入社群
+
+- 搜尋策略：同一主題用**繁體＋簡體**兩組關鍵字分別搜尋（如「菲律賓華人」／「菲律宾华人」），涵蓋面較廣。
+- 公開群可直接加入（出現 `You joined`／`Visit` 即確認）；私密群多有入群問答（來自哪國、住哪區、是否為特定國籍），**入群問題一律不代答**，僅送出申請，由使用者自行補答。
+- 已加入約 30+ 菲律賓相關公開群、80+ 台灣政治/公共議題與地方「大小事」公開群。明顯與目標政治立場相反、或港澳/他國無關群組不加入。
+
+### 3. 瀏覽與排序貼文
+
+- 進入已加入群組瀏覽動態，依「政治資訊量／互動熱度／在地特色」對貼文做人工排序，挑出最具代表性者（本次最高者為「台中人大小事」的政治獻金流向圖卡）。
+
+### 4. 個人動態轉發（Share）測試
+
+正確作法（能完整帶出原圖）：
+
+1. 開啟原始**公開**貼文的照片檢視頁或貼文本體。
+2. 點該貼文的 **Share → Feed**（分享到個人動態），**不要**用「複製圖片網址另發純文字文」或手動重貼——否則對外顯示會沒有圖片，只是引用/點評。
+3. 在 Share 對話框內把受眾由 `Friends` 改為 **`Public`（Anyone on or off Facebook）**。
+4. 送出後確認 toast：`Shared to your profile` / DOM：`Your Post is successfully shared with EVERYONE`。
+5. **務必**開個人主頁或該貼文 permalink 覆核：作者為 `Myriad Press`、受眾顯示 `Shared with Public`、原始圖片與來源作者（如 `天橋說書`）皆完整帶出，且未在原貼文下留言、未產生重複貼文。
+
+帶個人觀點的轉發：在 Share 對話框（或事後 `Edit post`）的「Say something about this…／What's on your mind」欄位輸入評論文字後再送出。
+
+### 5. 關鍵坑：中文無法用鍵盤直接輸入
+
+- 現象：透過自動化鍵盤 `type` 中文字到 Facebook 的 `contenteditable` 欄位**不會生效**（欄位仍顯示 placeholder），導致轉發雖成功、但個人觀點文字沒帶上。
+- 解法（Linux）：用剪貼簿貼上。
+
+```bash
+# 先安裝 xclip
+sudo apt-get install -y xclip
+# 將中文寫入剪貼簿（注意 DISPLAY）
+printf '%s' "要貼的中文內容" | DISPLAY=:0 xclip -selection clipboard
+```
+
+  然後在欄位內按 `Ctrl+V` 貼上，即可正確帶入中文；貼上後再按 `Share now`／`Save`。
+
+### 6. 驗證與安全準則
+
+- 不可僅憑 Activity Log 或送出後的 toast 就宣稱成功；**必須**開啟結果貼文本體目視＋DOM 覆核（作者、公開受眾、原圖、來源、無誤留言、無重複）。
+- 全程不暴露帳密/驗證碼/Cookie/Token；遇任何登入或安全審查即停手交由使用者操作。
+
+### 7. 內容挑選與轉發策略（本 Thread 實測總結）
+
+- **選材範圍**：菲律賓民生／選舉／時政公共議題的**公開**貼文（新聞專頁、公開社團、時事自媒體）。
+- **硬性排除**：廣告與商業內容——物流/集運、電商、招聘、服務與軟體推廣一律不轉。
+- **風格**：仿台灣搬運貼——原貼 Share → Feed 轉發＋一段帶觀點的繁體中文評論，受眾一律改為 Public。
+- **選題方向（實測有效）**：民生物價／通膨、選舉（BSKE 2026、BARMM 首屆議會選舉）、彈劾等政治風波（莎拉·杜特爾特案）、帶嘲諷意味的時政評論貼。
+- **嘲諷類貼文**：優先選純政治嘲諷（Haha 反應多者較穩）；避免以天災傷亡作為嘲諷點的貼文（觀感風險）。個人號/自媒體多帶強烈立場（如親中反馬科斯），提案時須向使用者揭露立場屬性。
+- **搜尋策略**：中文關鍵詞繁簡都試（「菲律賓＋主題」）；中文報道稀缺的題材（BSKE/BARMM）改用英文/菲語關鍵詞。嘲諷類貼可用「讽刺」「打脸」「尴尬」「惨败」等情緒詞＋政治人物名組合搜尋。
+- **流程紅線**：來源貼與評論文案**皆須使用者逐一確認**後才發佈；發佈後必須主頁＋permalink 覆核（作者、Public、署名、原媒體、無重複）。
+
+## Threads 運營策略
+
+以 IG 帳號 `myriad.press` 直接登入 Threads（threads.com/login），登入態保存在瀏覽器會話。Threads 帳號與 IG 完全綁定、共用風控，養號節奏與 IG 合併計算；內容挑選比照上方台灣/菲律賓 Facebook 策略（公開時政/民生貼 + Quote 繁中評論，排除廣告，發佈前逐一經使用者確認）。
+
+完整策略見 [`docs/threads_strategy.md`](docs/threads_strategy.md)；吸粉策略見 [`docs/Threadfansgain.md`](docs/Threadfansgain.md)。
+
+### Threads 手動發佈流程（2026-07-16 實測，不用 Playwright）
+
+使用者明確要求 **Threads 發佈不使用 Playwright**，全程用 GUI（computer use）手動操作瀏覽器：
+
+1. **登入**：開 `threads.com/login?show_choice_screen=false`，填 IG 帳密（Devin Secrets：`INSTAGRAM_MYRIAD_USERNAME` / `INSTAGRAM_MYRIAD_PASSWORD`）。注意：填完密碼後在密碼欄按 `Enter` 送出，直接點 Log in 按鈕可能不生效。
+2. **中文輸入**：與 Facebook 相同，鍵盤 `type` 中文到 composer 不生效（只會輸入 ASCII）。必須用剪貼簿：`printf '%s' "中文內容" | DISPLAY=:0 xclip -selection clipboard`，再在欄位內 `Ctrl+V`。
+3. **話題標籤**：點 composer 標題列的「Community or topic」欄，貼上標籤文字（如「台灣政治」）後從下拉選單點選；每帖僅一個 tag。
+4. **配圖**：點 composer 圖片圖示開啟系統檔案對話框，雙擊選取本機圖片。
+5. **發佈**：點 Post，出現「Posting...」後到個人主頁覆核貼文（文字、tag、圖片、permalink）。
+
+**內容來源（非轉載模式）**：從 PredictHub（`myriad.press/integrate/index`）的台灣房間（如「台灣2026九合一選舉」）取材改寫為自發帖，配圖用房間內原圖（`myriad.press/integrate/media/*.webp`，轉 jpg 後上傳）或以 matplotlib（中文字型 `/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc`）自製數據圖表。文案發佈前仍須經使用者確認。
+
 ## 來源標註
 
 每條內容末尾附上：
