@@ -242,7 +242,7 @@ printf '%s' "要貼的中文內容" | DISPLAY=:0 xclip -selection clipboard
 
 以 IG 帳號 `myriad.press` 直接登入 Threads（threads.com/login），登入態保存在瀏覽器會話。Threads 帳號與 IG 完全綁定、共用風控，養號節奏與 IG 合併計算；內容挑選比照上方台灣/菲律賓 Facebook 策略（公開時政/民生貼 + Quote 繁中評論，排除廣告，發佈前逐一經使用者確認）。
 
-完整策略見 [`docs/threads_strategy.md`](docs/threads_strategy.md)。
+完整策略見 [`docs/threads_strategy.md`](docs/threads_strategy.md)；吸粉策略見 [`docs/Threadfansgain.md`](docs/Threadfansgain.md)。
 
 ## 來源標註
 
