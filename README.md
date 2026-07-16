@@ -244,6 +244,18 @@ printf '%s' "要貼的中文內容" | DISPLAY=:0 xclip -selection clipboard
 
 完整策略見 [`docs/threads_strategy.md`](docs/threads_strategy.md)；吸粉策略見 [`docs/Threadfansgain.md`](docs/Threadfansgain.md)。
 
+### Threads 手動發佈流程（2026-07-16 實測，不用 Playwright）
+
+使用者明確要求 **Threads 發佈不使用 Playwright**，全程用 GUI（computer use）手動操作瀏覽器：
+
+1. **登入**：開 `threads.com/login?show_choice_screen=false`，填 IG 帳密（Devin Secrets：`INSTAGRAM_MYRIAD_USERNAME` / `INSTAGRAM_MYRIAD_PASSWORD`）。注意：填完密碼後在密碼欄按 `Enter` 送出，直接點 Log in 按鈕可能不生效。
+2. **中文輸入**：與 Facebook 相同，鍵盤 `type` 中文到 composer 不生效（只會輸入 ASCII）。必須用剪貼簿：`printf '%s' "中文內容" | DISPLAY=:0 xclip -selection clipboard`，再在欄位內 `Ctrl+V`。
+3. **話題標籤**：點 composer 標題列的「Community or topic」欄，貼上標籤文字（如「台灣政治」）後從下拉選單點選；每帖僅一個 tag。
+4. **配圖**：點 composer 圖片圖示開啟系統檔案對話框，雙擊選取本機圖片。
+5. **發佈**：點 Post，出現「Posting...」後到個人主頁覆核貼文（文字、tag、圖片、permalink）。
+
+**內容來源（非轉載模式）**：從 PredictHub（`myriad.press/integrate/index`）的台灣房間（如「台灣2026九合一選舉」）取材改寫為自發帖，配圖用房間內原圖（`myriad.press/integrate/media/*.webp`，轉 jpg 後上傳）或以 matplotlib（中文字型 `/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc`）自製數據圖表。文案發佈前仍須經使用者確認。
+
 ## 來源標註
 
 每條內容末尾附上：
